@@ -1,0 +1,16 @@
+{
+  "name": "meepshop_native_store",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "es6-promise": "^3.2.1",
+    "isomorphic-fetch": "^2.2.1",
+    "react": "15.2.1",
+    "react-mixin": "^3.0.5",
+    "react-native": "0.31.0",
+    "react-timer-mixin": "^0.13.3"
+  }
+}

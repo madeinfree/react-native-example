@@ -1,0 +1,3 @@
+rootProject.name = 'meepshop_native_store'
+
+include ':app'
